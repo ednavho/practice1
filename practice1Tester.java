@@ -5,7 +5,7 @@ import org.junit.*;
 public class practice1Tester {
     
     @Test
-    public void recip() {
+    public void mult() {
         assertEquals(10, practice1.multiply(5,2));
     }
 }
